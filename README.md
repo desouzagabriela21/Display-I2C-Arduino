@@ -16,4 +16,4 @@ O Arduino envia um pulso ultrassônico pelo pino Trigger do sensor, que reflete 
 
 Essa distância é exibida em tempo real no display LCD 16x2 utilizando a biblioteca Adafruit_LiquidCrystal, que facilita o uso do display com interface I2C.
 
-<img width="1920" height="848" alt="ImagemCircuito" src="https://github.com/user-attachments/assets/edf56a63-0f40-4233-bff8-9dec12afdcd2" />
+<img width="1064" height="599" alt="imagem-TinkerCad" src="https://github.com/user-attachments/assets/b3fbeab4-a342-4240-a2d7-5c4073cfa641" />
